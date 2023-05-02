@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Inter&family=Poppins:wght@300&family=Roboto&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+html , body {
+  color: #394F69;
+  font-family: 'Poppins', sans-serif;
+}
+/* handburger css start here  */
+.mob-header {
+    position: absolute;
+    top: 22px;
+    right: 5%;
+    z-index: 4;
+  }
+  .mob-nav {
+    background-color: #394F69;
+    position: fixed;
+    width: 100vw;
+    height: 100%;
+    top: 0;
+    z-index: 2;
+    transition: transform 0.2s cubic-bezier(0.41, 0.11, 0.69, 0.94);
+    transform: translate(-100%, -100%);
+  }
+  .menu-open {
+    transform: translate(0%, 0%);
+  }
+  /* second hand burger  */
+  .hamburger {
+    position: fixed;
+    width: 30px;
+    height: 23px;
+    z-index: 4;
+    cursor: pointer;
+  }
+  .hamburger.nav-open span:first-child {
+    transform: rotate(135deg);
+    top: 10px;
+  }
+  .hamburger.nav-open span:nth-child(2) {
+    left: 100px;
+    opacity: 0;
+  }
+  .hamburger.nav-open span:last-child {
+    transform: rotate(-135deg);
+    top: 10px;
+  }
+  .hamburger span {
+    width: 100%;
+    height: 3px;
+    background: #222 !important;
+    position: absolute;
+    display: block;
+    transition: all 0.3s;
+  }
+  .hamburger span:first-child {
+    top: 0;
+  }
+  .hamburger span:nth-child(2) {
+    top: 10px;
+    left: 0;
+  }
+  .hamburger span:last-child {
+    top: 20px;
+  }
+
+  /* menu hover css start here  */
+  .hover-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #fff;
+    transition: width .3s;
+  }
+  .hover-link:hover::after {
+    width: 100%;
+    transition: width .3s;
+  }
+  /* menu hover css end here  */
+ 
+  /* cards css start here  */
+
+  .card12 {
+    width: 100%;
+    min-height: 300px;
+    perspective: 500px;
+    cursor: pointer;
+  }
+  
+  .content1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    transition: transform 1s;
+    transform-style: preserve-3d;
+  }
+  
+  .card12:hover .content1 {
+    transform: rotateY( 180deg ) ;
+    transition: transform 0.5s;
+  }
+  .front,
+  .back {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #03446A;
+    color: #fff;
+    border-radius: 5px;
+    backface-visibility: hidden;
+  }
+  .back {
+    background: #fff;
+    color: #03446A;
+    transform: rotateY( 180deg );
+  }
+  /* heart like css start here  */
+  .heart {
+    width: 100px;
+    height: 100px;
+    background: url("https://cssanimation.rocks/images/posts/steps/heart.png") no-repeat;
+    background-position: 0 0;
+    cursor: pointer;
+    transition: background-position 1s steps(28);
+    transition-duration: 0s;
+  }
+  .heart.is-active {
+    transition-duration: 1s;
+    background-position: -2800px 0;
+  }
+  /* cards css end here  */
+
+  /* // load more css start here //  */
+  .none-3{
+    display:none;
+  }

@@ -1,0 +1,56 @@
+.fs-50{
+    font-size: 50px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-25{
+    font-size: 25px;
+}
+.font-medium{
+    font-weight: bold;
+}
+.fw-300{
+    font-weight: 300;
+}
+.w-94{
+    width: 94%;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.mtb-20{
+    margin: 20px 0;
+}
+.in-block{
+    display: inline-block;
+}
+.bg-grey{
+    background: #D2DBE8;
+}
+.active {
+    border-bottom: 2px solid #fff;
+    overflow:hidden;
+    text-align: center;
+    font-weight: 900;
+    font-weight: 600;
+}
+ol, ul {
+    padding-left: 0 !important;
+}
+.bg-sky-blue{
+    background: #4EC6D8;
+}
+.btn-blue{
+    color: #fff;                   ;
+    background: #394F69;
+    border-radius: 28px;
+    opacity: 1;
+    padding: 10px 25px;
+    font-size: 20px;
+}
