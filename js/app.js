@@ -30,7 +30,7 @@ fetch('../asset/data.json')
       
     });
     $(function () {
-      $(".none-3").slice(0, 3).show();
+      $(".none-3").slice(0, 18).show();
       $("body").on('click touchstart', '.load-more', function (e) {
           e.preventDefault();
           $(".none-3:hidden").slice(0, 3).slideDown();

@@ -13,7 +13,7 @@ html , body {
 .mob-header {
     position: absolute;
     top: 22px;
-    right: 5%;
+    right: 10%;
     z-index: 4;
   }
   .mob-nav {
@@ -140,3 +140,102 @@ html , body {
   .none-3{
     display:none;
   }
+   /* // load more css end here //  */
+
+  /* early section css start here  */
+  .sizeOne{
+    background-image: url('../asset/sizeOne.png');
+    width: 409px;
+    height: 304px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 13%;
+    top: 5%;
+    z-index: 3;
+  }
+  .sizeTwo{
+    background-image: url('../asset/sizeTwo.png');
+    height: 800px;
+    width: 500px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 13%;
+    top: 5%;
+  }
+  .sizeThree{
+    background-image: url('../asset/sizeThree.png');
+    width: 363px;
+    height: 420px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .sizeFour{
+    background-image: url('../asset/sizeFour.png');
+    width: 389px;
+    height: 408px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+   /* early section css end here  */
+
+   /* puzzle section css start here  */
+   .puzzle{
+    background-image: url('../asset/puzzle.png');
+    height: 601px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   /* puzzle section css end here  */
+
+   /* opportunity css start here  */
+   .opportunity{
+    background: #FFAC6C;
+   }
+   .responsive{
+    background: #4EC6D8;
+   }
+    /* opportunity css end here  */
+
+    /* challenge-opportunity start here  */
+    .challenge-opportunity{
+      background-image: url('../asset/Challenge-Opportunity.png');
+      height: 540px;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+    }
+    .decorationSix{
+      background-image: url('../asset/decorationSix.png');
+      width: 612px;
+      height: 452px;
+      background-position:center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: absolute;
+      top: 9%;
+    }
+    /* challenge-opportunity end here  */
+
+   
+   /* footer start here  */
+   .footer{
+    padding: 40px 0;
+    background: #394F69;
+   }
+   /* footer end here  */
+
+   .boat{
+    background-image: url('../asset/boat.png');
+    height: 1085px;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
