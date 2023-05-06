@@ -145,8 +145,8 @@ html , body {
   /* early section css start here  */
   .sizeOne{
     background-image: url('../asset/sizeOne.png');
-    width: 409px;
-    height: 304px;
+    width: 641px;
+    height: 859px;
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -154,17 +154,6 @@ html , body {
     left: 13%;
     top: 5%;
     z-index: 3;
-  }
-  .sizeTwo{
-    background-image: url('../asset/sizeTwo.png');
-    height: 800px;
-    width: 500px;
-    background-position:center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    position: absolute;
-    left: 13%;
-    top: 5%;
   }
   .sizeThree{
     background-image: url('../asset/sizeThree.png');
@@ -187,10 +176,11 @@ html , body {
    /* puzzle section css start here  */
    .puzzle{
     background-image: url('../asset/puzzle.png');
-    height: 601px;
+    height: 496px;
     background-position:center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+    background-color: #D2DBE8;
    }
    /* puzzle section css end here  */
 
@@ -238,4 +228,46 @@ html , body {
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
+   }
+
+
+   .wh-box{
+    height: 158px;
+    width: 158px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+  .active{
+    border-bottom: unset !important;
+   }
+   .upstar{
+    background-image: url("../asset/upstar.png");
+    height: 500px;
+    width: 478px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+   }
+   .star{
+    height: 26px !important;
+    width: 140px !important;
+   }
+   .click{
+    width: 106px !important;
+    height: 95px !important;
+   }
+   .boat-pos{
+    position: absolute;
+    right: 10%;
+    top: 13%;
+   }
+   .boat-pos1{
+    position: absolute;
+    right: 23%;
+    top: 43%;
+    z-index: 5;
    }

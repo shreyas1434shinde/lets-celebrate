@@ -1,5 +1,19 @@
 let ListE = document.querySelector('#cards');
-
+$(document).ready(function(){
+	$('#hamburger').click(function(){
+		$('.mob-nav').toggleClass('menu-open');
+	});
+});
+$(document).ready(function () {
+  $('.hamburger').click(() => {
+    $('.hamburger').toggleClass('nav-open');
+  });
+});
+$(document).ready(function () {
+  $(".nav-itemss").click(function (){
+    $(this).addClass("active1").siblings().removeClass("active1");
+  });
+});
 
 // cards js start end here 
 
@@ -51,7 +65,44 @@ $(function() {
 });
 
 
+$('.puzzle-car').owlCarousel({
+  loop:true,
+  margin:10,
+  nav:false,
+  dots:false,
+  autoplay:true,
+  autoplayTimeout:1000,
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:3
+      },
+      1000:{
+          items:5
+      }
+  }
+});
 
+$('.card-car').owlCarousel({
+  loop:true,
+  margin:10,
+  nav:false,
+  dots:false,
+  autoWidth:true,
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:1
+      },
+      1000:{
+          items:1
+      }
+  }
+})
 
 
  

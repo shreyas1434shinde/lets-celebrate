@@ -7,6 +7,9 @@
 .fs-20{
     font-size: 20px;
 }
+.fs-23{
+    font-size: 23px;
+}
 .fs-25{
     font-size: 25px;
 }
@@ -15,6 +18,9 @@
 }
 .fw-500{
     font-weight: 500;
+}
+.fw-800{
+    font-weight: 800;
 }
 .w-70{
     width: 70%;
@@ -41,6 +47,9 @@ a{
 .ptb-120{
     padding: 120px 0;
 }
+.pt-10r{
+    padding-top: 10rem;
+}
 .mtb-20{
     margin: 20px 0;
 }
@@ -50,7 +59,7 @@ a{
 .bg-grey{
     background: #D2DBE8;
 }
-.active {
+.active1 {
     border-bottom: 2px solid #fff;
     overflow:hidden;
     text-align: center;
@@ -62,6 +71,12 @@ ol, ul {
 }
 .bg-sky-blue{
     background: #4EC6D8;
+}
+.bg-blue{
+    background: #394F69;
+}
+.h-50{
+    height: 50px;
 }
 .btn-blue{
     color: #fff;                   ;
@@ -105,4 +120,9 @@ ol, ul {
 .pos-right{
     position: absolute;
     right: 0;
+    top: 135px;
+    z-index: 10;
+}
+.pl-14{
+    padding-left: 14rem;
 }
