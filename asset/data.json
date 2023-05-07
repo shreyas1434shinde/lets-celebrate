@@ -1,97 +1,338 @@
 [
     {    
         "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },{    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     },
     {    
-        "id":"2",
+        "id":"1",
+        "core":"CORE INSIGHT",
         "title" : "Child is ready",
-        "subTitle" :"The child’s family is child’s childhood-ready"
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
+    },
+    {    
+        "id":"1",
+        "core":"CORE INSIGHT",
+        "title" : "Child is ready",
+        "subTitle" :"The child is childhood-ready The child’s family is child’s childhood-ready.",
+        "early":"EARLY CHILDHOOD"
     }
 
 ]

@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    /* transition: all 2s ease-in-out; */
 } 
 
 html , body {
@@ -87,7 +88,7 @@ html , body {
 
   .card12 {
     width: 100%;
-    min-height: 300px;
+    min-height: 450px;
     perspective: 500px;
     cursor: pointer;
   }
@@ -150,10 +151,23 @@ html , body {
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
-    position: absolute;
+    position: relative;
     left: 13%;
     top: 5%;
     z-index: 3;
+  }
+  .text-size-1{
+    position: absolute;
+    top: 11%;
+    max-width: 52%;
+    left: 6%;
+  }
+  .text-size-2{
+    position: absolute;
+    top: 40%;
+    max-width: 52%;
+    left: 34%;
+    line-height: 28px;
   }
   .sizeThree{
     background-image: url('../asset/sizeThree.png');
@@ -196,7 +210,7 @@ html , body {
     /* challenge-opportunity start here  */
     .challenge-opportunity{
       background-image: url('../asset/Challenge-Opportunity.png');
-      height: 540px;
+      padding: 36px 0;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -209,7 +223,7 @@ html , body {
       background-position:center;
       background-size: cover;
       background-repeat: no-repeat;
-      position: absolute;
+      position: relative;
       top: 9%;
     }
     /* challenge-opportunity end here  */
@@ -271,3 +285,39 @@ html , body {
     top: 43%;
     z-index: 5;
    }
+  .hamburger.nav-open span:last-child  {
+    background: #fff !important;
+}
+.hamburger.nav-open span:first-child {
+  background: #fff !important;
+}
+.pos-size-4{
+  position: absolute;
+  top: 7%;
+  left: 10%;
+}
+
+
+.core{
+  background: #fff;
+  padding: 5px 7px;
+  color: #000;
+  display: inline-block;
+}
+.core1{
+  background: #03446A;
+  padding: 5px 7px;
+  color: #fff;
+  display: inline-block;
+}
+.card-title{
+  font-size: 50px;
+  font-weight: 600;
+  width: 70%;
+  line-height: 55px;
+}
+.card-sub-title{
+  font-size: 25px;
+  font-weight: 300;
+  width: 100%;
+}

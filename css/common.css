@@ -7,6 +7,9 @@
 .fs-20{
     font-size: 20px;
 }
+.fs-30{
+    font-size: 30px;
+}
 .fs-23{
     font-size: 23px;
 }
@@ -16,11 +19,14 @@
 .fw-300{
     font-weight: 300;
 }
-.fw-500{
-    font-weight: 500;
+.fw-600{
+    font-weight: 600;
 }
 .fw-800{
     font-weight: 800;
+}
+.w-59{
+    width: 59%;
 }
 .w-70{
     width: 70%;
@@ -75,6 +81,9 @@ ol, ul {
 .bg-blue{
     background: #394F69;
 }
+.text-blue{
+    color: #394F69 !important;
+}
 .h-50{
     height: 50px;
 }
@@ -125,4 +134,31 @@ ol, ul {
 }
 .pl-14{
     padding-left: 14rem;
+}
+.car-img-1{
+    width: 118px !important;
+    height: 118px !important;
+}
+.car-img-2{
+    width: 108px !important;
+    height: 71px !important;
+}
+.car-img-3{
+    width: 97px !important;
+    height: 117px !important;
+}
+.car-img-4{
+    width: 108px !important;
+    height: 96px !important;
+}
+.car-img-5{
+    width: 134px !important;
+    height: 68px !important;
+}
+.car-img-6{
+    width: 136px !important;
+    height: 29px !important;
+}
+.bor-boot{
+    border-bottom: 1px solid #fff;
 }
